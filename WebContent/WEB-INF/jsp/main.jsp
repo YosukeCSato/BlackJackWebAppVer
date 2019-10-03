@@ -14,7 +14,10 @@
 <p>ディーラーの名前を入力してください</p><br>
 <input type="text" name="dealerName"><br>
 <input type="submit" value="決定">
-
+</form>
+<form action="/BlackJackWebAppVer/LoginServlet" method="get">
+<p>または</p>
+<input type="submit" value="ログイン">
 </form>
 </body>
 </html>
